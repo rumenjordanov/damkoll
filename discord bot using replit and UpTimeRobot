@@ -1,0 +1,35 @@
+First: 
+Make a discord bot and add the bot to your server: 
+https://discord.com/developers/applications
+Second:
+open https://replit.com/~ and make new repl -> choose Node.js and press Create repl.
+Press on the box icon (Packages) and add "express" "discord.js"
+
+COPY AND PASTE THIS:
+
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => {
+ res.send('working!')
+});
+
+app.listen(3000, () => {
+ console.log('working');
+});
+
+let Discord = require("discord.js");
+let client = new Discord.Client();
+
+
+client.login("YOUR  DISCORD BOT TOKEN HERE")
+
+Third:
+Copy your repl link:
+(WHERE IS THIS LINK? - https://prnt.sc/12oc18a) must be here on the screen.
+
+Now open https://uptimerobot.com/dashboard and press "add New Monitor"
+THEN : https://prnt.sc/12oc7na
+
+NOW YOUR BOT IS ONLINE :)
+If you have question -> My discord account is damkoll#1118
