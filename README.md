@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @damkoll
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me :
 Discord- damkoll#1118 or damkoll#7777
 
 <!---
