@@ -1,2 +1,2 @@
 
-- Discord - Rumbata#6409
+- Discord - .rumbata
